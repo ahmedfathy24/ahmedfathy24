@@ -43,4 +43,5 @@ I focus on building **secure and high-performance web applications** with clean 
 
 
 ##  GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathy24&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="Top Languages" height="180"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathy24&layout=compact&langs_count=10&theme=tokyonight&count_private=true)
+
