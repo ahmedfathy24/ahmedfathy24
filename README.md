@@ -23,7 +23,7 @@ I focus on building **secure and high-performance web applications** with clean 
 </p>
 
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -42,5 +42,5 @@ I focus on building **secure and high-performance web applications** with clean 
 </p>
 
 
-## 📈 GitHub Stats
+##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathy24&layout=compact&theme=default)
