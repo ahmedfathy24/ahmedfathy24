@@ -1,104 +1,40 @@
 # Hi there, I'm Ahmed Fathy 👋
 
-I'm a **Computer and Communications Engineering Student** specializing in **Cybersecurity**, **Network Infrastructure**, and **High-Performance Backend Engineering**. 
+I'm a **Computer and Communications Engineering Student** at Benha University (Shoubra Faculty of Engineering). I am a **Full-Stack Web Developer** who focuses on building secure, reliable web applications while deeply expanding my knowledge in **Network Infrastructure** and **Cybersecurity**. 
 
-I focus on bridging the gap between networking protocols, software architecture, and machine learning to build proactive, secure systems and cryptographic solutions.
-
----
-
-## 🛡️ Featured Projects
-
-### [PhishGuard v2](https://github.com/ahmedfathy24/phishing_detector)
-* **What it is:** A fully decoupled, real-time ML-powered browser protection system.
-* **Tech Stack:** Python, FastAPI, Machine Learning (Random Forest Ensemble), JavaScript (Chrome Extension Manifest V3), REST APIs.
-* **Impact:** Evaluates 41 features dynamically to intercept phishing and typosquatting vectors instantly before page load.
-
-### [Secure Document Forgery Detection System](https://github.com/AhmedUsama29/Forgery-Detection)
-* **What it is:** A cryptographic digital signature verification system securing document integrity.
-* **Tech Stack:** Python, Asymmetric Cryptography (RSA), SHA-256 Hashing, PKCS#1 v1.5 padding.
-* **Impact:** Generates tamper-proof digital seals and protects layouts against padding attacks and illegal modifications.
+I bridge the gap between core networking concepts and software development to understand how systems operate under the hood, from routing protocols to application security.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
-### 🔒 Cybersecurity & Cryptography
-* Applied Cryptography (RSA, AES, SHA, Hashing & Digital Signatures)
-* Network Security, Anti-Evasion Systems, Phishing Mitigation
-* Penetration Testing & Vulnerability Assessment
-
-### 🌐 Network Infrastructure
-* Core Networking: Switching, Routing (OSPF, EIGRP), Subnetting (VLSM)
-* Protocols: TCP/IP Stack, DNS, HTTP/S, DHCP, Web Interception APIs
-* Systems & HW: 8051 Microcontrollers, Embedded Logic (Arduino), Network Architecture Design
-
-### 💻 Backend Engineering & Machine Learning
-* **Languages:** Python, Java, C++, JavaScript (Node.js, Express.js), Assembly (8051)
-* **Frameworks & Databases:** FastAPI, Angular, MongoDB, MySQL, SQL Server
-* **AI & Data Science:** Scikit-Learn, Random Forest, Feature Engineering & Heuristic Normalization
-
----
-
-## 🌐 Connect with Me
+### 💻 Web Development & Backend
 <p>
-<a href="mailto:ahmedfathyahmedsaber@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://www.linkedin.com/in/ahmed-fathy-790a3b307/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/ahmedfathy24">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.instagram.com/ahmed_fathy_9/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.facebook.com/ahmed.fathy.968528?locale=ar_AR">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
----
+### 🌐 Network Infrastructure & Security
+<p>
+  <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-🛡️-red?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Network_Protocols-TCP%2FIP-blue?style=for-the-badge" alt="Protocols"/>
+</p>
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathy24&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)# Hi there, I'm Ahmed Fathy 👋
-
-I'm a **Computer and Communications Engineering Student** specializing in **Cybersecurity**, **Network Infrastructure**, and **High-Performance Backend Engineering**. 
-
-I focus on bridging the gap between networking protocols, software architecture, and machine learning to build proactive, secure systems and cryptographic solutions.
-
----
-
-## 🛡️ Featured Projects
-
-### [PhishGuard v2](https://github.com/ahmedfathy24/phishing_detector)
-* **What it is:** A fully decoupled, real-time ML-powered browser protection system.
-* **Tech Stack:** Python, FastAPI, Machine Learning (Random Forest Ensemble), JavaScript (Chrome Extension Manifest V3), REST APIs.
-* **Impact:** Evaluates 41 features dynamically to intercept phishing and typosquatting vectors instantly before page load.
-
-### [Secure Document Forgery Detection System](https://github.com/AhmedUsama29/Forgery-Detection)
-* **What it is:** A cryptographic digital signature verification system securing document integrity.
-* **Tech Stack:** Python, Asymmetric Cryptography (RSA), SHA-256 Hashing, PKCS#1 v1.5 padding.
-* **Impact:** Generates tamper-proof digital seals and protects layouts against padding attacks and illegal modifications.
-
----
-
-## 🛠️ Skills & Tools
-
-### 🔒 Cybersecurity & Cryptography
-* Applied Cryptography (RSA, AES, SHA, Hashing & Digital Signatures)
-* Network Security, Anti-Evasion Systems, Phishing Mitigation
-* Penetration Testing & Vulnerability Assessment
-
-### 🌐 Network Infrastructure
-* Core Networking: Switching, Routing (OSPF, EIGRP), Subnetting (VLSM)
-* Protocols: TCP/IP Stack, DNS, HTTP/S, DHCP, Web Interception APIs
-* Systems & HW: 8051 Microcontrollers, Embedded Logic (Arduino), Network Architecture Design
-
-### 💻 Backend Engineering & Machine Learning
-* **Languages:** Python, Java, C++, JavaScript (Node.js, Express.js), Assembly (8051)
-* **Frameworks & Databases:** FastAPI, Angular, MongoDB, MySQL, SQL Server
-* **AI & Data Science:** Scikit-Learn, Random Forest, Feature Engineering & Heuristic Normalization
+### 🧰 Programming Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
 ---
 
