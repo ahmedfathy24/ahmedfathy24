@@ -58,6 +58,3 @@ I bridge the gap between core networking concepts and software development to un
 </p>
 
 ---
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathy24&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)
