@@ -6,9 +6,9 @@ I bridge the gap between core networking concepts and software development to un
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Web Development & Backend
+###  Web Development & Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -20,14 +20,14 @@ I bridge the gap between core networking concepts and software development to un
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### 🌐 Network Infrastructure & Security
+###  Network Infrastructure & Security
 <p>
   <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
   <img src="https://img.shields.io/badge/Cybersecurity-🛡️-red?style=for-the-badge" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Network_Protocols-TCP%2FIP-blue?style=for-the-badge" alt="Protocols"/>
 </p>
 
-### 🧰 Programming Languages & Tools
+###  Programming Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
